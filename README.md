@@ -6,11 +6,6 @@ Struktur data menggunakan       : Double Linkedlist
 Algoritma searching menggunakan : Jump Search
 Algoritma sorting menggunakan   : Merge Sort
 Bahasa pemrograman menggunakan  : Python
-
-
-
-
-
 d
 
 # FITUR DAN FUNGSIONALITAS
