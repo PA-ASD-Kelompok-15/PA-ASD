@@ -28,3 +28,5 @@ Fitur tambahan lain:
 1. Login: Digunakan untuk mengakses program dengan menggunakan nama dan password yang sudah terdaftar. Admin akan menuju pada tampilan admin. Untuk pembeli akan menuju pada tampilan pembeli.
 
 # CARA PENGGUNAAN
+1. login dengan menggunakan nama dan password yang sudah terdaftar.
+2. memilih opsi dari setiap pilihan dengan cukup memasukkan nomor opsi yang tertera sesuai keinginan kita.
