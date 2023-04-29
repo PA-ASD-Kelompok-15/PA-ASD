@@ -1,3 +1,8 @@
+Kelompok 15
+1. Adham Khautsar Leswono. NIM: 2209116021
+2. Aristy Avrianti. NIM: 2209116027
+3. Avinka Rizky. NIM: 2209116049
+
 # DESKRIPSI PROGRAM
 Program ini digunakan untuk mengelola menu yang tersedia dalam restaurant. Diimplementasikan dengan double linked list sebagai struktur data untuk menyimpan menu yang tersedia. Berbagai fitur yang ada di dalam program ini dengan role sebagai admin ataupun pembeli dengan login untuk mengaksesnya. Admin dapat menampilkan, mencari, mengurutkan, menambah, dan menghapus item menu. Untuk pembeli dapat menampilkan, mencari, mengurutkan, dan membeli.
 
