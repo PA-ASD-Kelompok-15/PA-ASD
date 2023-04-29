@@ -14,7 +14,7 @@ Bahasa pemrograman menggunakan: Python
 Untuk admin memiliki fitur:
 1. Menampilkan menu: Digunakan untuk menampilkan daftar menu yang ada dalam restoran. Menu tersimpan pada struktur data double linkedlist.
 2. Mencari item pada menu: Digunakan untuk mencari menu berdasarkan nama menu yang sudah ada. Implementasi pencarian menggunakan algoritma jump search.
-3. Mengurutkan menu: Digunakan untuk mengurutkan daftar menu berdasarkan kriteria. Ada dari yang termurah, dan terfavorit/top seller. Implementasi pengurutan menggunakan algoritma merge sort.
+3. Mengurutkan menu: Digunakan untuk mengurutkan daftar menu berdasarkan kriteria. Ada dari yang termurah dan terfavorit/top seller. Implementasi pengurutan menggunakan algoritma merge sort.
 4. Menambah item pada menu: Digunakan untuk menambahkan menu baru ke dalam daftar menu. Hanya admin yang dapat melakukannya.
 5. Menghapus item pada menu: Digunakan untuk menghapus menu yang sudah ada dalam daftar menu. Hanya admin yang dapat melakukannya.
 
@@ -29,4 +29,12 @@ Fitur tambahan lain:
 
 # CARA PENGGUNAAN
 1. login dengan menggunakan nama dan password yang sudah terdaftar.
-2. memilih opsi dari setiap pilihan dengan cukup memasukkan nomor opsi yang tertera sesuai keinginan kita.
+2. Memilih opsi dari setiap pilihan dengan cukup memasukkan nomor opsi yang tertera.
+3. Ikuti instruksi sesuai dengan arahan/himbauan yang tertera apabila ada terdapat kesalahan dalam memasukkan inputan.
+4. Apabila ingin menampilkan menu maka pilih opsi "Tampilkan Menu".
+5. Apabila ingin mencari item pada menu maka pilih opsi "Cari Menu".
+6. Apabila ingin mengurutkan menu berdasarkan kriteria yang ada, masing-masing dari yang termurah dan terfavorit/top seller maka pilih opsi "Sortir Menu".
+7. Apabila ingin menambahkan menu baru ke dalam daftar menu maka pilih opsi "Tambah Menu". Hanya admin yang dapat melakukannya.
+8. Apabila ingin menghapus menu yang sudah ada dalam daftar menu maka pilih opsi "Hapus Menu". Hanya admin yang dapat melakukannya.
+9. Untuk pembeli, apabila ingin membeli/memesan menu makanan maupun minuman yang ada pada daftar menu maka pilih opsi "Beli".
+10. Apabila ingin mengakhiri program maka pilih opsi "Keluar "Program", atau pilih opsi "Kembali Tampilan Utama" apabila disaat pada tampilan admin maupun pembeli yang kemudian pilih opsi "Keluar Program" yang terdapat pada tampilan utama.
