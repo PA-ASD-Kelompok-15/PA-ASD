@@ -3,10 +3,12 @@ Program ini digunakan untuk mengelola menu yang tersedia dalam restaurant. Diimp
 
 # STRUKTUR PROJECT
 Struktur data menggunakan       : Double Linkedlist
+
 Algoritma searching menggunakan : Jump Search
+
 Algoritma sorting menggunakan   : Merge Sort
+
 Bahasa pemrograman menggunakan  : Python
-d
 
 # FITUR DAN FUNGSIONALITAS
 
