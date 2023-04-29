@@ -423,7 +423,7 @@ def main():
                         print("", file = save)
                         print("        ","<"*10, ">"*10, file = save)
                         print(f" Total Pembayaran\t    : Rp {order.total}", file = save)
-                        print(" Tunai\t                : Rp", bayar, file = save)
+                        print(" Tunai\t                    : Rp", bayar, file = save)
                         print(" Kembalian\t            : Rp", kembalian, file = save)
                         print(40*"=", file = save)                    
                         print(" THANK YOU FOR YOUR ORDER ".center(40,"="), file = save)
