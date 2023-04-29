@@ -7,6 +7,12 @@ Algoritma searching menggunakan : Jump Search
 Algoritma sorting menggunakan   : Merge Sort
 Bahasa pemrograman menggunakan  : Python
 
+
+
+
+
+d
+
 # FITUR DAN FUNGSIONALITAS
 
 # CARA PENGGUNAAN
